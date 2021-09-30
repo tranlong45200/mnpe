@@ -1,13 +1,16 @@
-{[{
-    "image": "https://github.com/tranlong45200/mnpe/raw/main/unnamed%202.png",
-    "name": "One Block",
-    "mnpe": []
-}, {
-    "image": "https://github.com/tranlong45200/mnpe/raw/main/image%2042.png",
-    "name": "Furniture Mod",
-    "mnpe": []
-}, {
-    "image": "https://github.com/tranlong45200/mnpe/raw/main/image%2041.png",
-    "name": "Among Us",
-    "mnpe": []
-}]}
+{
+
+    "Mnpe": [{
+        "image": "https://github.com/tranlong45200/mnpe/raw/main/unnamed%202.png",
+        "name": "One Block",
+        "mnpe": []
+    }, {
+        "image": "https://github.com/tranlong45200/mnpe/raw/main/image%2042.png",
+        "name": "Furniture Mod",
+        "mnpe": []
+    }, {
+        "image": "https://github.com/tranlong45200/mnpe/raw/main/image%2041.png",
+        "name": "Among Us",
+        "mnpe": []
+    }]
+}
