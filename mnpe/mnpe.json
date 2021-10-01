@@ -1,81 +1,173 @@
 {
     "Mnpes": [{
-        "image": "mnpe/1/1.png",
-        "name": "One Block",
-        "mnpe": [{
-            "name": "One Skyblock map",
-            "type": "Addon",
-            "image": "mnpe/1/1/1.jpg",
-            "file": "mnpe/1/1/1.mcworld",
-            "des": "I want to present you yet another One Block style map but with some upgrades. The basics are the same, you start on one block, and by destroying it constantly, you will be getting random blocks to be used for your needs. Be smart with how you manage resources, for they are scarce. The twist is after 750 collected blocks - Nether portal appears, and after 1500 blocks appears portal to the End."
+            "image": "mnpe/1/1.png",
+            "name": "One Block",
+            "mnpe": [{
+                "name": "One Skyblock map",
+                "type": "Addon",
+                "image": "mnpe/1/1/1.jpg",
+                "file": "mnpe/1/1/1.mcworld",
+                "des": "I want to present you yet another One Block style map but with some upgrades. The basics are the same, you start on one block, and by destroying it constantly, you will be getting random blocks to be used for your needs. Be smart with how you manage resources, for they are scarce. The twist is after 750 collected blocks - Nether portal appears, and after 1500 blocks appears portal to the End."
+            }, {
+                "name": "Ultimate Skyblock map",
+                "type": "Addon",
+                "image": "mnpe/1/2/2.jpg",
+                "file": "mnpe/1/2/2.mcworld",
+                "des": "What makes this Skyblock special is that it features a small-sized economy in it. Just like any other Skyblock, it starts on an island, but now you need to produce resources and trade them for currency. Grow crops, sell them for money and then buy the things that you need to grow your production and economy. So it's more like a capitalist survival than a regular Skyblock."
+            }, {
+                "name": "Space Survival map",
+                "type": "Addon",
+                "image": "mnpe/1/3/3.jpg",
+                "file": "mnpe/1/3/3.mcworld",
+                "des": "Minecraft players are well known as the best survivalists, and now they up to a new challenge. We already survived the skyblock, on one block, and now it's time to survive in space. It's not the actual space per sem - it is rather an imitation and a setting of the map. You will be facing several challenges, such as aliens and space dragon attacks. Develop your base, mine asteroids for resources, and trade it to get new equipment. Buy the jetpack to travel on the surrounding planets."
+            }, {
+                "name": "Random Skyblock map for Minecraft PE 1.16.20",
+                "type": "Addon",
+                "image": "mnpe/1/4/4.jpg",
+                "file": "mnpe/1/4/4.mcworld",
+                "des": "The main feature of the Random Skyblock map is that it generates random blocks and events. The starting island looks the same - a tree, a little to no resources, and few chests. But when you start walking out of the island's borders, you'll notice that you're not falling, and random blocks start spawning beneath your feet. But not only good blocks will spawn - sand and glass can start falling, and occasionally you may face a hostile mob."
+            }]
         }, {
-            "name": "Ultimate Skyblock map",
-            "type": "Addon",
-            "image": "mnpe/1/2/2.jpg",
-            "file": "mnpe/1/2/2.mcworld",
-            "des": "What makes this Skyblock special is that it features a small-sized economy in it. Just like any other Skyblock, it starts on an island, but now you need to produce resources and trade them for currency. Grow crops, sell them for money and then buy the things that you need to grow your production and economy. So it's more like a capitalist survival than a regular Skyblock."
+            "image": "mnpe/2/2.png",
+            "name": "Furniture Mod",
+            "mnpe": [{
+                "name": "Home+ Addon",
+                "type": "Addon",
+                "image": "mnpe/2/1/1.jpg",
+                "file": "mnpe/2/1/1.mcpack",
+                "des": "Add a crazy amount of furniture and decorations into your Minecraft using this addon. Receive more than 250 items that can be used to fully furnish your place to create a nice comfy atmosphere. As for now, the addon is still in beta, and you cannot craft new items in survival. Type in the chat the following command to get all items at once: /function homeplus_blocks"
+            }, {
+                "name": "Furnicraft 3D addon",
+                "type": "Addon",
+                "image": "mnpe/2/2/2.jpg",
+                "file": "mnpe/2/2/2.mcpack",
+                "des": "Furnicraft 3D addon adds detailed models of furniture into MCPE that can be used to sit on. You can place furniture wherever you want, but some of it can be accidentally moved by the character when you step on it. You will be able to sit on a couch and rotate it, but some items are not available for interaction. Decorate your living room with a cool TV set and watch your favorite shows."
+            }, {
+                "name": "Peepss Furniture addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/2/3/3.jpg",
+                "file": "mnpe/2/3/3.mcaddon",
+                "des": "Nothing makes life better than a nicely furnished house. After a hard day of slaying creepers and collecting diamonds, the only thing I want in life is a little nap on a comfy sofa and a hot soup. The addon features enough furniture for both fixing yourself a soup and crafting a custom sofa. There are more than 50 pieces of furniture packed in the addon."
+            }, {
+                "name": "Medieval Furniture addon",
+                "type": "Addon",
+                "image": "mnpe/2/4/4.jpg",
+                "file": "mnpe/2/4/4.mcaddon",
+                "des": "Minecraft is basically a game that takes place in medieval times, which means that modern furniture does not really fit the style. Unlike the many other addons, this one adds items that won't stand out inside the ordinary Minecraft home, often built from stone. Decorate your castle with barrels, crates, and chairs, among many other things this addon allows you to have. Approximately 160 handcrafted 3D blocks will be added to the game in total."
+            }, {
+                "name": "School Furniture addon",
+                "type": "Addon",
+                "image": "mnpe/2/5/5.jpg",
+                "file": "mnpe/2/5/5.mcpack",
+                "des": "School furniture addon features several items that can be used to decorate school in Minecraft PE. Let's say you want to recreate your school in Minecraft PE, among everything else - you will need to furnish it. A teacher's table, chalkboard, a stack of books, and many other attributes of the real classroom can be found among the 17 new items from the addon."
+            }]
         }, {
-            "name": "Space Survival map",
-            "type": "Addon",
-            "image": "mnpe/1/3/3.jpg",
-            "file": "mnpe/1/3/3.mcworld",
-            "des": "Minecraft players are well known as the best survivalists, and now they up to a new challenge. We already survived the skyblock, on one block, and now it's time to survive in space. It's not the actual space per sem - it is rather an imitation and a setting of the map. You will be facing several challenges, such as aliens and space dragon attacks. Develop your base, mine asteroids for resources, and trade it to get new equipment. Buy the jetpack to travel on the surrounding planets."
-        }, {
-            "name": "Random Skyblock map for Minecraft PE 1.16.20",
-            "type": "Addon",
-            "image": "mnpe/1/4/4.jpg",
-            "file": "mnpe/1/4/4.mcworld",
-            "des": "The main feature of the Random Skyblock map is that it generates random blocks and events. The starting island looks the same - a tree, a little to no resources, and few chests. But when you start walking out of the island's borders, you'll notice that you're not falling, and random blocks start spawning beneath your feet. But not only good blocks will spawn - sand and glass can start falling, and occasionally you may face a hostile mob."
-        }]
-    }, {
-        "image": "mnpe/2/2.png",
-        "name": "Furniture Mod",
-        "mnpe": [{
-            "name": "Home+ Addon",
-            "type": "Addon",
-            "image": "mnpe/2/1/1.jpg",
-            "file": "mnpe/2/1/1.mcpack",
-            "des": "Add a crazy amount of furniture and decorations into your Minecraft using this addon. Receive more than 250 items that can be used to fully furnish your place to create a nice comfy atmosphere. As for now, the addon is still in beta, and you cannot craft new items in survival. Type in the chat the following command to get all items at once: /function homeplus_blocks"
-        }, {
-            "name": "Furnicraft 3D addon",
-            "type": "Addon",
-            "image": "mnpe/2/2/2.jpg",
-            "file": "mnpe/2/2/2.mcpack",
-            "des": "Furnicraft 3D addon adds detailed models of furniture into MCPE that can be used to sit on. You can place furniture wherever you want, but some of it can be accidentally moved by the character when you step on it. You will be able to sit on a couch and rotate it, but some items are not available for interaction. Decorate your living room with a cool TV set and watch your favorite shows."
-        }, {
-            "name": "Peepss Furniture addon for Minecraft PE",
-            "type": "Addon",
-            "image": "mnpe/2/3/3.jpg",
-            "file": "mnpe/2/3/3.mcaddon",
-            "des": "Nothing makes life better than a nicely furnished house. After a hard day of slaying creepers and collecting diamonds, the only thing I want in life is a little nap on a comfy sofa and a hot soup. The addon features enough furniture for both fixing yourself a soup and crafting a custom sofa. There are more than 50 pieces of furniture packed in the addon."
-        }, {
-            "name": "Medieval Furniture addon",
-            "type": "Addon",
-            "image": "mnpe/2/4/4.jpg",
-            "file": "mnpe/2/4/4.mcaddon",
-            "des": "Minecraft is basically a game that takes place in medieval times, which means that modern furniture does not really fit the style. Unlike the many other addons, this one adds items that won't stand out inside the ordinary Minecraft home, often built from stone. Decorate your castle with barrels, crates, and chairs, among many other things this addon allows you to have. Approximately 160 handcrafted 3D blocks will be added to the game in total."
-        }, {
-            "name": "School Furniture addon",
-            "type": "Addon",
-            "image": "mnpe/2/5/5.jpg",
-            "file": "mnpe/2/5/5.mcpack",
-            "des": "School furniture addon features several items that can be used to decorate school in Minecraft PE. Let's say you want to recreate your school in Minecraft PE, among everything else - you will need to furnish it. A teacher's table, chalkboard, a stack of books, and many other attributes of the real classroom can be found among the 17 new items from the addon."
-        }]
-    }, {
-        "image": "mnpe/3/3.png",
-        "name": "Among Us",
-        "mnpe": [{
-            "name": "Among Us addon for Minecraft PE",
-            "type": "Addon",
-            "image": "mnpe/3/1/1.jpg",
-            "file": "mnpe/3/1/1.mcpack",
-            "des": "The addon adds Crew members and Imposters from Among Us into Minecraft PE.Just like in the original game,there is no way of telling who is Imposter until it 's too late. Imposters are hostile towards the crew and player. A crew member can be tamed using a bone. A killed crew member will become a body on the floor, waiting to be found."
-        }, {
-            "name": "Among Us map for Minecraft PE",
-            "type": "Addon",
-            "image": "mnpe/3/2/2.jpg",
-            "file": "mnpe/3/2/2.mcpack",
-            "des": "This map copies the spaceship from Among Us accurately enough to simulate the whole gameplay experience in Minecraft PE. Your crew is on the mission, but your spaceship is terrorized by the aliens that are disguised as crew members. Repair the ship with a crew, uncover the imposters, and get rid of them before it's too late"
-        }]
-    }]
+            "image": "mnpe/3/3.png",
+            "name": "Among Us",
+            "mnpe": [{
+                "name": "Among Us addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/3/1/1.jpg",
+                "file": "mnpe/3/1/1.mcpack",
+                "des": "The addon adds Crew members and Imposters from Among Us into Minecraft PE.Just like in the original game,there is no way of telling who is Imposter until it 's too late. Imposters are hostile towards the crew and player. A crew member can be tamed using a bone. A killed crew member will become a body on the floor, waiting to be found."
+            }, {
+                "name": "Among Us map for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/3/2/2.jpg",
+                "file": "mnpe/3/2/2.mcpack",
+                "des": "This map copies the spaceship from Among Us accurately enough to simulate the whole gameplay experience in Minecraft PE. Your crew is on the mission, but your spaceship is terrorized by the aliens that are disguised as crew members. Repair the ship with a crew, uncover the imposters, and get rid of them before it's too late"
+            }]
+        },
+        {
+            "image": "mnpe/4/4.png",
+            "name": "LuckuBlock",
+            "mnpe": [{
+                    "name": "15 Lucky Blocks addon",
+                    "type": "Addon",
+                    "image": "mnpe/4/1/1.jpg",
+                    "file": "mnpe/4/1/1.mcaddon",
+                    "des": "Craft 15 types of Lucky Blocks and take your chances of getting every item in Minecraft PE almost for free. Every type of lucky block has a different content you can get, both in case of a good and bad outcome. For the most part, the chances to die from some random event are pretty low, unless you've opened ten to twenty lucky blocks already."
+                },
+                {
+                    "name": "Lucky Block addon for Minecraft PE",
+                    "type": "Addon",
+                    "image": "mnpe/4/2/2.jpg",
+                    "file": "mnpe/4/2/2.mcaddon",
+                    "des": "Lucky Block addon - is all about win or lose, and there's nothing to rely on except luck. All you'll need to do is to find as much gold and craft Lucky blocks. Then you will need just to destroy them using hand or some tools, they will drop either nice thing or will do you some harm - that depends on how lucky you are. Among the items that have a chance to drop are diamond tools and armor, iron tools, wool, villager, creeper, explosion, enchanted armor, etc."
+                },
+                {
+                    "name": "Lucky Block Race map",
+                    "type": "Addon",
+                    "image": "mnpe/4/3/3.jpg",
+                    "file": "mnpe/4/3/3.mcworld",
+                    "des": "Lucky Block race - is a fun minigame, in which you and up to three of your friends can test your luck. How to play: you and at least one of your friends must stand at the beginning - each on their own track, make a countdown, and start running destroying all lucky blocks on your way. You never know what's going to happen after another destructed block - you can be blown up or summon witch. The map is best to be played in the nighttime - it looks very beautiful."
+                },
+                {
+                    "name": "Super Lucky Blocks addon for Minecraft PE",
+                    "type": "Addon",
+                    "image": "mnpe/4/4/4.jpg",
+                    "file": "mnpe/4/4/4.mcaddon",
+                    "des": "Lucky Blocks is super-fun to open up especially when there are ten types of them. These blocks are a good investment of your resources - it usually pays off generously. Each type of Lucky block drops a different set of items, but there is also a rare one that can drop everything. Some blocks will be spawning naturally underground, and most of them can be crafted."
+                }
+            ]
+        },
+        {
+            "image": "mnpe/5/5.png",
+            "name": "Car",
+            "mnpe": [{
+                "name": "Formula 1 addon",
+                "type": "Addon",
+                "image": "mnpe/5/1/1.jpg",
+                "file": "mnpe/5/1/1.mcaddon",
+                "des": "Formula 1 is the fastest race in the world, an elite sport accessible only for big automobile companies. The cars are built exclusively for the F1 race to maximize the acceleration speed. Body of the cars are extremely light but also fragile, meaning that every impact could be fatal. In Minecraft, however, you will be free of such risks. All five cars were taken from the 44th season of Formula-1. Also, if you want a good track to test this one out,"
+            }, {
+                "name": "Sports Car addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/5/2/2.jpg",
+                "file": "mnpe/5/2/2.mcaddon",
+                "des": "You will hear only the whistle of the wind in your ears when you're going to drive this sports car in Minecraft PE. One of the fastest cars in the world will be added into the game, Lamborghini - a handmade masterpiece. The car is painted in orange, and the model of the car is highly detailed both from the inside and outside. It moves very fast, which is not so surprising, considering it is a sports car and can be used for races. Of course, such cars always attract girls, so be sure to share the photo of you inside it."
+            }, {
+                "name": "Tesla Roadster addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/5/3/3.jpg",
+                "file": "mnpe/5/3/3.mcpack",
+                "des": "Tesla Roadster addon brings the next generation of electric cars in Minecraft PE. Two of the main strong points of that car is that it's fast and doesn't harm the environment. You don't even need to charge it in Minecraft - there is no electricity here, but you can think of it like Tesla is charging by solar energy. The car has a nice panoramic glass on a roof, to enjoy the sky while driving. Tesla Roadster was designed to be a fast car, in the game, it moves at the speed of 100 mph."
+            }, {
+                "name": "Vanilla Vehicles mod for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/5/4/4.jpg",
+                "file": "mnpe/5/4/4.mcpack",
+                "des": "Vanilla Vehicles is a simple looking transport, that works exactly how you expect from it. You will be able to add to your garage 6 new vehicles of various use: cars, a plane, a submarine. The main difference from other mods is the universality of vehicles, but it has its own cons. The first disappointment is the behavior of some vehicles while driving, for instance - you almost can't control the altitude of the plane. However, there are pros as well - you can decorate your vehicles with stickers and put your friend on a motorbike passenger seat."
+            }]
+        },
+        {
+            "image": "mnpe/6/6.png",
+            "name": "Pixelmon",
+            "mnpe": [{
+                "name": "Pokemon addon",
+                "type": "Addon",
+                "image": "mnpe/6/1/1.jpg",
+                "file": "mnpe/6/1/1.mcaddon",
+                "des": "Pokemons emerged into the Minecraft world and are waiting to be caught by a skillful trainer. Even though only 3 types of pokemon will be added and 3 of their evolutions, the addon is brilliant. It features the best-looking pokemon design ever made for Minecraft. You will be able to create a Pokeball, catch a pokemon, store up to nine of them, and then summon them over again. Battles between pokemon aren't working as of now."
+            }, {
+                "name": "SERP Pokédrock - Pokemon addon",
+                "type": "Addon",
+                "image": "mnpe/6/2/2.jpg",
+                "file": "mnpe/6/2/2.mcpack",
+                "des": "SERP Pokédrock is one of the biggest Pokemon addons for Minecraft PE that ever existed - let's look at what it has to offer. Just for starters, the addon features about 150 pokemon - shiny versions and evolutions included. All gameplay from the original Pokemon games was carefully transferred into Minecraft. Craft Pokeballs, catch Pokemon, collect all shiny versions, and evolute your monsters with candies."
+            }, {
+                "name": "Pikachu Pokemon addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/6/3/3.jpg",
+                "file": "mnpe/6/3/3.mcpack",
+                "des": ""
+            }, {
+                "name": "PokeCraft addon for Minecraft PE",
+                "type": "Addon",
+                "image": "mnpe/6/4/4.jpg",
+                "file": "mnpe/6/4/4.mcpack",
+                "des": "PokeCraft is an addon that collides together two absolutely unlike worlds - Pokemon and Minecraft. The thing about Pokemon is that they are cute and have very unique powers. As a trainer, you want to collect all possible species to gain an advantage over other trainers. Addon adds only four starter pokemon, and each one of them can be tamed. It is an early stage, so the behavior of the monsters is dull - no abilities, no emotions. The total number of pokemon at the moment is close to one thousand, hopefully, we can see more of them in the game."
+            }]
+        }
+    ]
 }
