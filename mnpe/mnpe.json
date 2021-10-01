@@ -1,0 +1,39 @@
+{
+    "Mnpes": [{
+        "image": "1.png",
+        "name": "One Block",
+        "mnpe": [{
+            "name": "One Skyblock map",
+            "type": "Addon",
+            "image": "mnpe/1/1/1.png",
+            "file": "mnpe/1/1/1.mcworld",
+            "des": "I want to present you yet another One Block style map but with some upgrades. The basics are the same, you start on one block, and by destroying it constantly, you will be getting random blocks to be used for your needs. Be smart with how you manage resources, for they are scarce. The twist is after 750 collected blocks - Nether portal appears, and after 1500 blocks appears portal to the End."
+        }, {
+            "name": "Ultimate Skyblock map",
+            "type": "Addon",
+            "image": "mnpe/1/1/2.png",
+            "file": "mnpe/1/1/2.mcworld",
+            "des": "What makes this Skyblock special is that it features a small-sized economy in it. Just like any other Skyblock, it starts on an island, but now you need to produce resources and trade them for currency. Grow crops, sell them for money and then buy the things that you need to grow your production and economy. So it's more like a capitalist survival than a regular Skyblock."
+        }, {
+            "name": "Space Survival map",
+            "type": "Addon",
+            "image": "mnpe/1/1/3.png",
+            "file": "mnpe/1/1/3.mcworld",
+            "des": "Minecraft players are well known as the best survivalists, and now they up to a new challenge. We already survived the skyblock, on one block, and now it's time to survive in space. It's not the actual space per sem - it is rather an imitation and a setting of the map. You will be facing several challenges, such as aliens and space dragon attacks. Develop your base, mine asteroids for resources, and trade it to get new equipment. Buy the jetpack to travel on the surrounding planets."
+        }, {
+            "name": "Random Skyblock map for Minecraft PE 1.16.20",
+            "type": "Addon",
+            "image": "mnpe/1/1/4.png",
+            "file": "mnpe/1/1/4.mcworld",
+            "des": "The main feature of the Random Skyblock map is that it generates random blocks and events. The starting island looks the same - a tree, a little to no resources, and few chests. But when you start walking out of the island's borders, you'll notice that you're not falling, and random blocks start spawning beneath your feet. But not only good blocks will spawn - sand and glass can start falling, and occasionally you may face a hostile mob."
+        }]
+    }, {
+        "image": "2.png",
+        "name": "Furniture Mod",
+        "mnpe": []
+    }, {
+        "image": "3.png",
+        "name": "Among Us",
+        "mnpe": []
+    }]
+}
