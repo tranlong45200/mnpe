@@ -74,7 +74,7 @@
             "name": "Among Us map for Minecraft PE",
             "type": "Addon",
             "image": "mnpe/3/2/2.jpg",
-            "file": "mnpe/3/2/2.mcaddon",
+            "file": "mnpe/3/2/2.mcpack",
             "des": "This map copies the spaceship from Among Us accurately enough to simulate the whole gameplay experience in Minecraft PE. Your crew is on the mission, but your spaceship is terrorized by the aliens that are disguised as crew members. Repair the ship with a crew, uncover the imposters, and get rid of them before it's too late"
         }]
     }]
