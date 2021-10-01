@@ -30,10 +30,52 @@
     }, {
         "image": "mnpe/2/2.png",
         "name": "Furniture Mod",
-        "mnpe": []
+        "mnpe": [{
+            "name": "Home+ Addon",
+            "type": "Addon",
+            "image": "mnpe/2/1/1.jpg",
+            "file": "mnpe/2/1/1.mcpack",
+            "des": "Add a crazy amount of furniture and decorations into your Minecraft using this addon. Receive more than 250 items that can be used to fully furnish your place to create a nice comfy atmosphere. As for now, the addon is still in beta, and you cannot craft new items in survival. Type in the chat the following command to get all items at once: /function homeplus_blocks"
+        }, {
+            "name": "Furnicraft 3D addon",
+            "type": "Addon",
+            "image": "mnpe/2/2/2.jpg",
+            "file": "mnpe/2/2/2.mcpack",
+            "des": "Furnicraft 3D addon adds detailed models of furniture into MCPE that can be used to sit on. You can place furniture wherever you want, but some of it can be accidentally moved by the character when you step on it. You will be able to sit on a couch and rotate it, but some items are not available for interaction. Decorate your living room with a cool TV set and watch your favorite shows."
+        }, {
+            "name": "Peepss Furniture addon for Minecraft PE",
+            "type": "Addon",
+            "image": "mnpe/2/3/3.jpg",
+            "file": "mnpe/2/3/3.mcaddon",
+            "des": "Nothing makes life better than a nicely furnished house. After a hard day of slaying creepers and collecting diamonds, the only thing I want in life is a little nap on a comfy sofa and a hot soup. The addon features enough furniture for both fixing yourself a soup and crafting a custom sofa. There are more than 50 pieces of furniture packed in the addon."
+        }, {
+            "name": "Medieval Furniture addon",
+            "type": "Addon",
+            "image": "mnpe/2/4/4.jpg",
+            "file": "mnpe/2/4/4.mcaddon",
+            "des": "Minecraft is basically a game that takes place in medieval times, which means that modern furniture does not really fit the style. Unlike the many other addons, this one adds items that won't stand out inside the ordinary Minecraft home, often built from stone. Decorate your castle with barrels, crates, and chairs, among many other things this addon allows you to have. Approximately 160 handcrafted 3D blocks will be added to the game in total."
+        }, {
+            "name": "School Furniture addon",
+            "type": "Addon",
+            "image": "mnpe/2/5/5.jpg",
+            "file": "mnpe/2/5/5.mcpack",
+            "des": "School furniture addon features several items that can be used to decorate school in Minecraft PE. Let's say you want to recreate your school in Minecraft PE, among everything else - you will need to furnish it. A teacher's table, chalkboard, a stack of books, and many other attributes of the real classroom can be found among the 17 new items from the addon."
+        }]
     }, {
         "image": "mnpe/3/3.png",
         "name": "Among Us",
-        "mnpe": []
+        "mnpe": [{
+            "name": "Among Us addon for Minecraft PE",
+            "type": "Addon",
+            "image": "mnpe/3/1/1.jpg",
+            "file": "mnpe/3/1/1.mcpack",
+            "des": "The addon adds Crew members and Imposters from Among Us into Minecraft PE.Just like in the original game,there is no way of telling who is Imposter until it 's too late. Imposters are hostile towards the crew and player. A crew member can be tamed using a bone. A killed crew member will become a body on the floor, waiting to be found."
+        }, {
+            "name": "Among Us map for Minecraft PE",
+            "type": "Addon",
+            "image": "mnpe/3/2/2.jpg",
+            "file": "mnpe/3/2/2.mcaddon",
+            "des": "This map copies the spaceship from Among Us accurately enough to simulate the whole gameplay experience in Minecraft PE. Your crew is on the mission, but your spaceship is terrorized by the aliens that are disguised as crew members. Repair the ship with a crew, uncover the imposters, and get rid of them before it's too late"
+        }]
     }]
 }
